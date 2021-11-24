@@ -1,1 +1,1 @@
-![Alt text](dinosaur.gif) / ![](dinosaur.gif)
+![Alt text](dinosaur.gif)
