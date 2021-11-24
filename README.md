@@ -1,1 +1,1 @@
-![Alt text](dinosaur.gif)
+![Alt text](https://github.com/J2TEAM/J2TEAM/raw/main/dino.gif)
