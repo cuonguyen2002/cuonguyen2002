@@ -1,1 +1,13 @@
+
+### Hi there, I'm Cuong Nguyen 👋
+
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning IT at Hanoi Architectural University (2020 - 2025)
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 🏹 -->
 ![Alt text](dino.gif)
